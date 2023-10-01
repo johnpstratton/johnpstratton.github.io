@@ -1,6 +1,6 @@
 # johnpstratton.github.io
 
-##Github Account Assignment
+## Github Account Assignment
 
 GitHub was built by developers for developers
 
