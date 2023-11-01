@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-page",
+  "version": "1.0.0",
+  "description": "GitHub was built by developers for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpstratton/johnpstratton.github.io.git"
+  },
+  "author": "John Stratton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnpstratton/johnpstratton.github.io/issues"
+  },
+  "homepage": "https://github.com/johnpstratton/johnpstratton.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
